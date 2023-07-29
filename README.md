@@ -10,11 +10,11 @@ This repository will include the raw data, code, and visualization for simulated
 What modules (?) are required? I don't think I know enough, yet, to fill in this section... 
 
 
-### Installation
+## Installation
 
 Description for how to install the module (?) ... I don't think I know enough, yet, to fill in this section. 
 
 
-#### Configuration
+## Configuration
 
 This section describes how to configure the module (?) including permissions. 
